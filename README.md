@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UC-4FuWm0XqX2jmgBgqYIN-A" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://discord.gg/8gJCbAn7" target="_blank">
+  <a href="https://discord.gg/d9uV78Yb" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="mailto:vitoraraujoferreira2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
@@ -71,7 +71,7 @@
   <a href="https://www.linkedin.com/in/vitor-ferreira-b555022b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="discordapp.com/user/603616581045452829" target="_blank">
+  <a href="https://discord.gg/d9uV78Yb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UC-4FuWm0XqX2jmgBgqYIN-A" target="_blank">
